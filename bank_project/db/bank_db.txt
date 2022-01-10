@@ -1,0 +1,3 @@
+{"username": "asd", "credits": {"consumer credit": "21390.00", "housing loan": "25037.50", "saving account": "25037.50"}}
+{"username": "aleksiev", "credits": {"consumer credit": "16042.50", "housing loan": 0, "saving account": 0}}
+{"username": "ema", "credits": {"consumer credit": "21390.00", "housing loan": "31786.25", "saving account": 0}}

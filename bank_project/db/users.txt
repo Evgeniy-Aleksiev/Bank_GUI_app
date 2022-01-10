@@ -1,0 +1,3 @@
+{"username": "asd", "password": "asd", "firstName": "asd", "lastName": "asd"}
+{"username": "aleksiev", "password": "aleksiev", "firstName": "aleksiev", "lastName": "aleksiev"}
+{"username": "ema", "password": "ema", "firstName": "ema", "lastName": "slavova"}
